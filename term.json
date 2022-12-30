@@ -1,0 +1,286 @@
+[
+    {
+        "book": "hc",
+        "chapter": "1",
+        "ja": "<ruby>医学<rt>いがく</rt></ruby>",
+        "en": "medicine"
+    },
+    {
+        "book": "hc",
+        "chapter": "1",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby>",
+        "en": "medical care, medical services"
+    },
+    {
+        "book": "hc",
+        "chapter": "1",
+        "ja": "<ruby>保健<rt>ほけん</rt></ruby><ruby>医療<rt>いりょう</rt></ruby>",
+        "en": "healthcare, health services"
+    },
+    {
+        "book": "hc",
+        "chapter": "1",
+        "ja": "<ruby>健康<rt>けんこう</rt></ruby>",
+        "en": "health"
+    },
+    {
+        "book": "hc",
+        "chapter": "1",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>政策<rt>せいさく</rt></ruby>",
+        "en": "healthcare policies"
+    },
+    {
+        "book": "hc",
+        "chapter": "1",
+        "ja": "<ruby>医学<rt>いがく</rt></ruby><ruby>倫理<rt>りんり</rt></ruby>",
+        "en": "medical ethics"
+    },
+    {
+        "book": "hc",
+        "chapter": "1",
+        "ja": "<ruby>個人<rt>こじん</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>の<ruby>保護<rt>ほご</rt></ruby>",
+        "en": "protection of personal information"
+    },
+    {
+        "book": "hc",
+        "chapter": "1",
+        "ja": "<ruby>情報<rt>じょうほう</rt></ruby>の<ruby>開示<rt>かいじ</rt></ruby>",
+        "en": "disclosure of information"
+    },
+    {
+        "book": "hc",
+        "chapter": "1",
+        "ja": "<ruby>患者<rt>かんじゃ</rt></ruby>",
+        "en": "patients"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>社会<rt>しゃかい</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby>",
+        "en": "social security"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>制度<rt>せいど</rt></ruby>",
+        "en": "medical security systems"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>健康<rt>けんこう</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>法<rt>ほう</rt></ruby>",
+        "en": "Health Insurance Act"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>国民<rt>こくみん</rt></ruby><ruby>健康<rt>けんこう</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>法<rt>ほう</rt></ruby>",
+        "en": "National Health Insurance Act"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>後期<rt>こうき</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby><ruby>医療<rt>いりょう</rt></ruby>制度<ruby>せいど<rt></rt></ruby>",
+        "en": "the medical care system for the advanced elderly"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>診療<rt>しんりょう</rt></ruby><ruby>報酬<rt>ほうしゅう</rt></ruby><ruby>制度<rt>せいど</rt></ruby>",
+        "en": "the medical fee payment system"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>歯科<rt>しか</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>制度<rt>せいど</rt></ruby>",
+        "en": "dental insurance plans"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>機関<rt>きかん</rt></ruby>",
+        "en": "medical institutions"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>保険<rt>ほけん</rt></ruby><ruby>医<rt>い</rt></ruby>",
+        "en": "insurance doctors"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>保険<rt>ほけん</rt></ruby><ruby>医療<rt>いりょう</rt></ruby><ruby>機関<rt>きかん</rt></ruby>および<ruby>保険<rt>ほけん</rt></ruby><ruby>医療養<rt>いりょうよう</rt></ruby><ruby>担当<rt>たんとう</rt></ruby><ruby>規則<rt>きそく</rt></ruby>",
+        "en": "Rules for Health Insurance-covered Medical Facilities and Medical Practitioners"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>保険<rt>ほけん</rt></ruby><ruby>指導<rt>しどう</rt></ruby>・<ruby>監査<rt>かんさ</rt></ruby>",
+        "en": "inspection and guidance of medical facilities"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>高齢者<rt>こうれいしゃ</rt></ruby>の<ruby>医療<rt>いりょう</rt></ruby>の<ruby>確保<rt>かくほ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>法律<rt>ほうりつ</rt></ruby>",
+        "en": "Act on Securing Health and Medical Service for the Elderly"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>老人<rt>ろうじん</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>法<rt>ほう</rt></ruby>",
+        "en": "Act on Health for the Elderly"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>福祉<rt>ふくし</rt></ruby><ruby>制度<rt>せいど</rt></ruby>",
+        "en": "welfare systems"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>介護<rt>かいご</rt></ruby><ruby>制度<rt>せいど</rt></ruby>",
+        "en": "nursing systems for the elderly"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>法<rt>ほう</rt></ruby>",
+        "en": "Long-Term Care Insurance Act"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>行政<rt>ぎょうせい</rt></ruby><ruby>組織<rt>そしき</rt></ruby>",
+        "en": "administrative bodies"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>職<rt>しょく</rt></ruby>",
+        "en": "health professions"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>社会<rt>しゃかい</rt></ruby><ruby>医学<rt>いがく</rt></ruby>",
+        "en": "social medicine"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>健康<rt>けんこう</rt></ruby><ruby>増進<rt>ぞうしん</rt></ruby>",
+        "en": "health promotion"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>施設<rt>しせつ</rt></ruby><ruby>連携<rt>れんけい</rt></ruby>",
+        "en": "medical facilities network"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>地域<rt>ちいき</rt></ruby><ruby>医療<rt>いりょう</rt></ruby>",
+        "en": "community healthcare"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>救急<rt>きゅうきゅう</rt></ruby><ruby>医療<rt>いりょう</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>",
+        "en": "emergency medical-care network"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>遠隔<rt>えんかく</rt></ruby><ruby>医療<rt>いりょう</rt></ruby>",
+        "en": "telemedicine"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>管理<rt>かんり</rt></ruby>",
+        "en": "healthcare administration"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>病院<rt>びょういん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>",
+        "en": "hospital administration"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>病院<rt>びょういん</rt></ruby>の<ruby>管理<rt>かんり</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>",
+        "en": "governance structure of hospitals"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>組織<rt>そしき</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>",
+        "en": "organizational structures"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>管理<rt>かんり</rt></ruby><ruby>部門<rt>ぶもん</rt></ruby>",
+        "en": "administrative departments"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>経営<rt>けいえい</rt></ruby><ruby>企画<rt>きかく</rt></ruby><ruby>部門<rt>ぶもん</rt></ruby>",
+        "en": "operational planning departments"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby><ruby>部門<rt>ぶもん</rt></ruby>",
+        "en": "medical information departments"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>診療<rt>しんりょう</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby><ruby>管理<rt>かんり</rt></ruby>",
+        "en": "clinical information management"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>診療<rt>しんりょう</rt></ruby><ruby>報酬<rt>ほうしゅう</rt></ruby><ruby>処理<rt>しょり</rt></ruby>",
+        "en": "Fee-for-medical-services processing"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>用度<rt>ようど</rt></ruby><ruby>部門<rt>ぶもん</rt></ruby>",
+        "en": "purchasing departments"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>購入<rt>こうにゅう</rt></ruby><ruby>部門<rt>ぶもん</rt></ruby>",
+        "en": "purchasing departments"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby><rt></rt></ruby>",
+        "en": ""
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby><rt></rt></ruby>",
+        "en": ""
+    },
+    {
+        "ja": "<ruby>多<rt>た</rt></ruby><ruby>部門<rt>ぶもん</rt></ruby><ruby>連携<rt>れんけい</rt></ruby>",
+        "en": "intersectoral collaboration"
+    },
+    {
+        "ja": "<ruby><rt></rt></ruby>",
+        "en": ""
+    }
+]
