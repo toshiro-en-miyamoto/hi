@@ -92,6 +92,24 @@
     {
         "book": "hc",
         "chapter": "2",
+        "ja": "<ruby>診断<rt>しんだん</rt></ruby><ruby>群<rt>ぐん</rt></ruby><ruby>分類<rt>ぶんるい</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>",
+        "en": "Diagnosis Procedure Combination (DPC)"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>診断<rt>しんだん</rt></ruby><ruby>群<rt>ぐん</rt></ruby><ruby>分類<rt>ぶんるい</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>支払<rt>しはら</rt></ruby>い<ruby>制度<rt>せいど</rt></ruby>",
+        "en": "Per-Diem Payment System (PDPS)"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
+        "ja": "<ruby>診療<rt>しんりょう</rt></ruby><ruby>報酬<rt>ほうしゅう</rt></ruby><ruby>明細<rt>めいさい</rt></ruby><ruby>書<rt>しょ</rt></ruby>(レセプト)",
+        "en": "healthcare administrative claims"
+    },
+    {
+        "book": "hc",
+        "chapter": "2",
         "ja": "<ruby>歯科<rt>しか</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>制度<rt>せいど</rt></ruby>",
         "en": "dental insurance plans"
     },
@@ -264,23 +282,259 @@
         "en": "purchasing departments"
     },
     {
-        "book": "hc",
-        "chapter": "3",
-        "ja": "<ruby><rt></rt></ruby>",
-        "en": ""
-    },
-    {
-        "book": "hc",
-        "chapter": "3",
-        "ja": "<ruby><rt></rt></ruby>",
-        "en": ""
-    },
-    {
-        "ja": "<ruby>多<rt>た</rt></ruby><ruby>部門<rt>ぶもん</rt></ruby><ruby>連携<rt>れんけい</rt></ruby>",
+        "ja": "<ruby>横断<rt>おうだん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>部門<rt>ぶもん</rt></ruby><ruby>連携<rt>れんけい</rt></ruby>",
         "en": "intersectoral collaboration"
     },
     {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>安全<rt>あんぜん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>",
+        "en": "medical safety management"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>感染<rt>かんせん</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>",
+        "en": "infection control"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "チーム<ruby>医療<rt>いりょう</rt></ruby>",
+        "en": "team care"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>病院<rt>びょういん</rt></ruby><ruby>経営<rt>けいえい</rt></ruby>",
+        "en": "hospital management"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>経営<rt>けいえい</rt></ruby><ruby>指標<rt>しひょう</rt></ruby>",
+        "en": "managerial indexes"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>財務<rt>ざいむ</rt></ruby><ruby>会計<rt>かいけい</rt></ruby>",
+        "en": "financial accounting"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>管理<rt>かんり</rt></ruby><ruby>会計<rt>かいけい</rt></ruby>",
+        "en": "managerial accounting"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>事業<rt>じぎょう</rt></ruby><ruby>継続<rt>けいぞく</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>",
+        "en": "business continuity planning"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>対策<rt>たいさく</rt></ruby>",
+        "en": "countermeasures"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>医薬品<rt>いやくひん</rt></ruby><ruby>医療<rt>いりょう</rt></ruby><ruby>機器<rt>きき</rt></ruby><ruby>等<rt>とう</rt></ruby><ruby>法<rt>ほう</rt></ruby>",
+        "en": "Pharmaceutical and Medical Device Act (PMD Act)"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>薬<rt>やく</rt></ruby><ruby>事<rt>じ</rt></ruby><ruby>法<rt>ほう</rt></ruby>",
+        "en": "Pharmaceutical Affairs Law (PAL)"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>薬剤<rt>やくざい</rt></ruby><ruby>投与<rt>とうよ</rt></ruby>",
+        "en": "drug administration"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>設備<rt>せつび</rt></ruby>",
+        "en": "medical equipment"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "IT<ruby>化<rt></rt></ruby>",
+        "en": "digitization"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>情報<rt>じょうほう</rt></ruby><ruby>機器<rt>きき</rt></ruby>",
+        "en": "IT devices"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>事故<rt>じこ</rt></ruby>",
+        "en": "medical adverse events"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>過誤<rt>かご</rt></ruby>",
+        "en": "medical malpractices"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby>ミス",
+        "en": "medical errors"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>外部<rt>がいぶ</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>",
+        "en": "third-party evaluations"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>日本<rt>にほん</rt></ruby><ruby>医療<rt>いりょう</rt></ruby><ruby>機能<rt>きのう</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby><ruby>機構<rt>きこう</rt></ruby>",
+        "en": "NPO Japan Council for Quality Health Care"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>病院<rt>びょういん</rt></ruby><ruby>機能<rt>きのう</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>",
+        "en": "hospital accreditation programs"
+    },
+    {
+        "book": "hc",
+        "chapter": "3",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>機能<rt>きのう</rt></ruby>の<ruby>評価<rt>ひょうか</rt></ruby>",
+        "en": "evaluations of healthcare services"
+    },
+    {
+        "book": "hc",
+        "chapter": "4",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby>プロセス",
+        "en": "healthcare procedures"
+    },
+    {
+        "book": "hc",
+        "chapter": "4",
+        "ja": "<ruby>診療<rt>しんりょう</rt></ruby>プロセス",
+        "en": "medical service processes"
+    },
+    {
+        "book": "hc",
+        "chapter": "4",
         "ja": "<ruby><rt></rt></ruby>",
         "en": ""
+    },
+    {
+        "book": "hc",
+        "chapter": "4",
+        "ja": "<ruby><rt></rt></ruby>",
+        "en": ""
+    },
+    {
+        "book": "hc",
+        "chapter": "4",
+        "ja": "<ruby>救急<rt></rt></ruby><ruby>医療<rt>いりょう</rt>",
+        "en": "emergency care"
+    },
+    {
+        "book": "hc",
+        "chapter": "4",
+        "ja": "EBM",
+        "en": "evidence-based medicine"
+    },
+    {
+        "book": "hc",
+        "chapter": "4",
+        "ja": "<ruby>診療<rt>しんりょう</rt></ruby>ガイドライン",
+        "en": "practice guidelines"
+    },
+    {
+        "book": "hc",
+        "chapter": "4",
+        "ja": "<ruby><rt></rt></ruby>",
+        "en": ""
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "<ruby>検査<rt>けんさ</rt></ruby>",
+        "en": "medical tests"
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "<ruby>診断<rt>しんだん</rt></ruby>",
+        "en": "medical diagnosis"
+    },
+    {
+        "book": "hc",
+        "chapter": "7",
+        "ja": "<ruby>治療<rt>ちりょう</rt></ruby>",
+        "en": "therapy"
+    },
+    {
+        "book": "hc",
+        "chapter": "7",
+        "ja": "<ruby>処置<rt>しょち</rt></ruby>",
+        "en": "treatments"
+    },
+    {
+        "ja": "<ruby><rt></rt></ruby>",
+        "en": ""
+    },
+    {
+        "subject": "care, therapy, treatment, and intervention",
+        "refer": "https://en.wikipedia.org/wiki/Therapy",
+        "care":
+        [
+            "emergency care",
+            "intensive case",
+            "ambulatory care",
+            "home care",
+            "primary care",
+            "secondary care",
+            "tertiary care",
+            "follow-up care",
+            "end-of-life care",
+            "palliative care",
+            "hospice care"
+        ],
+        "therapy":
+        [
+            {
+                "by drugs":
+                [
+                    "pharmacotherapy",
+                    "chemotherapy"
+                ]
+            },
+            {
+                "medical devices":
+                [
+                    "implantation",
+                    "cardiac resynchronization therapy"
+                ]
+            },
+            {
+                "by molecules":
+                [
+                    "molecular therapy",
+                    "targeted therapy",
+                    "molecular chaperone therapy",
+                    "chelation therapy"
+                ]
+            }
+        ]
     }
 ]
