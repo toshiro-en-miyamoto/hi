@@ -1,6 +1,12 @@
 [
     {
         "book": "hc",
+        "chapter": "0",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby><ruby>学<rt>がく</rt></ruby>",
+        "en": "health informatics"
+    },
+    {
+        "book": "hc",
         "chapter": "1",
         "ja": "<ruby>医学<rt>いがく</rt></ruby>",
         "en": "medicine"
@@ -9,13 +15,13 @@
         "book": "hc",
         "chapter": "1",
         "ja": "<ruby>医療<rt>いりょう</rt></ruby>",
-        "en": "medical care, medical services"
+        "en": "medical care"
     },
     {
         "book": "hc",
         "chapter": "1",
         "ja": "<ruby>保健<rt>ほけん</rt></ruby><ruby>医療<rt>いりょう</rt></ruby>",
-        "en": "healthcare, health services"
+        "en": "healthcare"
     },
     {
         "book": "hc",
@@ -421,25 +427,25 @@
         "book": "hc",
         "chapter": "4",
         "ja": "<ruby>医療<rt>いりょう</rt></ruby>プロセス",
-        "en": "healthcare procedures"
+        "en": "healthcare processes"
     },
     {
         "book": "hc",
         "chapter": "4",
         "ja": "<ruby>診療<rt>しんりょう</rt></ruby>プロセス",
-        "en": "medical service processes"
+        "en": "medical procedures"
     },
     {
         "book": "hc",
         "chapter": "4",
-        "ja": "<ruby><rt></rt></ruby>",
-        "en": ""
+        "ja": "<ruby>診断<rt>しんだん</rt></ruby>",
+        "en": "medical diagnosis"
     },
     {
         "book": "hc",
         "chapter": "4",
-        "ja": "<ruby><rt></rt></ruby>",
-        "en": ""
+        "ja": "<ruby>治療<rt>ちりょう</rt></ruby>",
+        "en": "therapy"
     },
     {
         "book": "hc",
@@ -461,7 +467,166 @@
     },
     {
         "book": "hc",
-        "chapter": "4",
+        "chapter": "5",
+        "ja": "<ruby>薬学<rt>やくがく</rt></ruby>",
+        "en": "pharmacy"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>看護<rt>かんご</rt></ruby><ruby>学<rt>がく</rt></ruby>",
+        "en": "nursing"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>臨床<rt>りんしょう</rt></ruby><ruby>医学<rt>いがく</rt></ruby>",
+        "en": "clinical medicine"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>疾病<rt>しっぺい</rt></ruby>",
+        "en": "illness"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>疾患<rt>しっかん</rt></ruby>",
+        "en": "diseases"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "(<ruby>機能<rt>きのう</rt></ruby>)<ruby>異常<rt>いじょう</rt></ruby>",
+        "en": "abnormalities"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "(<ruby>機能<rt>きのう</rt></ruby>)<ruby>障害<rt>しょうがい</rt></ruby>",
+        "en": "disorders"
+    },
+    {
+        "subject": "disease and disorder",
+        "refer": "https://www.healthwriterhub.com/disease-disorder-condition-syndrome-whats-the-difference/",
+        "disorder": "a disruption of the disease to the normal or regular function in the body.",
+        "introduction":
+        [
+            "Doctors diagnose and treat a disease based on abnormalities in systemic functions, e.g. cardiovascular disease.",
+            "These abnormalities can cause physical signs, symptoms, as well as pain, dysfunction, or death."
+        ],
+        "descriptions":
+        [
+            "For example, a disorder resulting from cardiovascular disease is an arrhythmia.",
+            "An arrhythmia is not a disease itself; it's an abnormal heartbeat that occurs as a result of having cardiovascular disease."
+        ]
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>脳<rt>のう</rt></ruby>",
+        "en": "the brain"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>神経<rt>しんけい</rt></ruby><ruby>系<rt>けい</rt></ruby>",
+        "en": "the nervous system"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>循環<rt>じゅんかん</rt></ruby><ruby>器<rt>き</rt></ruby><ruby>系<rt>けい</rt></ruby>",
+        "en": "the circulatory system"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>呼吸<rt>こきゅう</rt></ruby><ruby>器<rt>き</rt></ruby><ruby>系<rt>けい</rt></ruby>",
+        "en": "the respiratory system"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>消化<rt>しょうか</rt></ruby><ruby>器<rt>き</rt></ruby><ruby>系<rt>けい</rt></ruby>",
+        "en": "the digestive system"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>代謝<rt>たいしゃ</rt></ruby><ruby>系<rt>けい</rt></ruby>",
+        "en": "the metabolic system"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>内<rt>ない</rt></ruby><ruby>分泌<rt>ぶんぴ</rt></ruby><ruby>系<rt>けい</rt></ruby>",
+        "en": "the endocrine system"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>血液<rt>けつえき</rt></ruby>",
+        "en": "blood"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>造血<rt>ぞうけつ</rt></ruby><ruby>組織<rt>そしき</rt></ruby>",
+        "en": "hematopoietic tissue"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>免疫<rt>めんえき</rt></ruby><ruby>系<rt>けい</rt></ruby>",
+        "en": "the immune system"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>筋<rt>きん</rt></ruby><ruby>骨格<rt>こっかく</rt></ruby><ruby>系<rt>けい</rt></ruby>",
+        "en": "the musculoskeletal system"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby><rt></rt></ruby>",
+        "en": ""
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby><rt></rt></ruby>",
+        "en": ""
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby><rt></rt></ruby>",
+        "en": ""
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby><rt></rt></ruby>",
+        "en": ""
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby><rt></rt></ruby>",
+        "en": ""
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby><rt></rt></ruby>",
+        "en": ""
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
         "ja": "<ruby><rt></rt></ruby>",
         "en": ""
     },
@@ -470,18 +635,6 @@
         "chapter": "6",
         "ja": "<ruby>検査<rt>けんさ</rt></ruby>",
         "en": "medical tests"
-    },
-    {
-        "book": "hc",
-        "chapter": "6",
-        "ja": "<ruby>診断<rt>しんだん</rt></ruby>",
-        "en": "medical diagnosis"
-    },
-    {
-        "book": "hc",
-        "chapter": "7",
-        "ja": "<ruby>治療<rt>ちりょう</rt></ruby>",
-        "en": "therapy"
     },
     {
         "book": "hc",
