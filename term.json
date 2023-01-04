@@ -738,14 +738,62 @@
     {
         "book": "hc",
         "chapter": "5",
-        "ja": "<ruby><rt></rt></ruby>",
-        "en": ""
+        "ja": "<ruby>医薬<rt>いやく</rt></ruby><ruby>品<rt>ひん</rt></ruby>",
+        "en": "pharmaceutical products, drugs"
     },
     {
         "book": "hc",
         "chapter": "5",
-        "ja": "<ruby><rt></rt></ruby>",
-        "en": ""
+        "ja": "<ruby>薬物<rt>やくぶつ</rt></ruby><ruby>治療<rt>ちりょう</rt></ruby>",
+        "en": "pharmacotherapy"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>処方<rt>しょほう</rt></ruby><ruby>箋<rt>せん</rt></ruby>",
+        "en": "prescription"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>臨床<rt>りんしょう</rt></ruby><ruby>看護<rt>かんご</rt></ruby>",
+        "en": "clinical nursing"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>重症<rt>じゅうしょう</rt></ruby><ruby>度<rt>ど</rt></ruby>",
+        "en": "(disease) severity"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>看護<rt>かんご</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby><ruby>度<rt>ど</rt></ruby>",
+        "en": "the grade of nursing needs"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>先進<rt>せんしん</rt></ruby><ruby>医療<rt>いりょう</rt></ruby>",
+        "en": "advanced medicine"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>遺伝子<rt>いでんし</rt></ruby><ruby>診断<rt>しんだん</rt></ruby>",
+        "en": "genetic diagnoses"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>遺伝子<rt>いでんし</rt></ruby><ruby>治療<rt>ちりょう</rt></ruby>",
+        "en": "gene therapies"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>再生<rt>さいせい</rt></ruby><ruby>医療<rt>いりょう</rt></ruby>",
+        "en": "regenerative medicine"
     },
     {
         "book": "hc",
