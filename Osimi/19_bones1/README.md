@@ -1,9 +1,7 @@
 # 骨に関する英語表現
 
 骨の名称と聞くと、学生時代に骨学実習で覚えたラテン語の名称が出てくる方も多いことでしょう。
-また、肩甲骨＝scapula、鎖骨＝clavicle、胸骨＝sternum、脛骨＝tibiaといった英語は浮かんでも、それらの一般英語であるshoulder blade、collarbone、breastbone、shinboneはなかなか出てこないようです。骨（bone）には多くのイディオムが存在します。
-
-今月はそんなboneに関する表現をいくつか紹介します。
+また、肩甲骨＝scapula、鎖骨＝clavicle、胸骨＝sternum、脛骨＝tibiaといった英語は浮かんでも、それらの一般英語であるshoulder blade、collarbone、breastbone、shinboneはなかなか出てこないようです。骨（bone）には多くのイディオムが存在します。今月はそんなboneに関する表現をいくつか紹介します。
 
 ## “a bone to pick”のある相手？
 
