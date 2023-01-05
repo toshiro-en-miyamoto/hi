@@ -463,7 +463,7 @@
         "book": "hc",
         "chapter": "4",
         "ja": "<ruby>診療<rt>しんりょう</rt></ruby>ガイドライン",
-        "en": "practice guidelines"
+        "en": "Clinical Practice Guidelines (CPG)"
     },
     {
         "book": "hc",
@@ -649,13 +649,13 @@
         "book": "hc",
         "chapter": "5",
         "ja": "<ruby>乳房<rt>にゅうぼう</rt></ruby>",
-        "en": "mamma, breast"
+        "en": "breast"
     },
     {
         "book": "hc",
         "chapter": "5",
         "ja": "<ruby>新生<rt>しんせい</rt></ruby><ruby>児<rt>じ</rt></ruby>",
-        "en": "neonatorum"
+        "en": "neonate, newborn"
     },
     {
         "book": "hc",
@@ -720,20 +720,20 @@
     {
         "book": "hc",
         "chapter": "5",
-        "ja": "<ruby>熱傷<rt>ねっしょう</rt></ruby>",
-        "en": "burn"
+        "ja": "<ruby>熱傷<rt>ねっしょう、やけど</rt></ruby>",
+        "en": "burn (dry), scald (wet)"
     },
     {
         "book": "hc",
         "chapter": "5",
         "ja": "<ruby>外傷<rt>がいしょう</rt></ruby>",
-        "en": "trauma, injury"
+        "en": "injury, trauma (serious)"
     },
     {
         "book": "hc",
         "chapter": "5",
         "ja": "<ruby>移植<rt>いしょく</rt></ruby>",
-        "en": "transplantation, grafting"
+        "en": "transplants, grafts"
     },
     {
         "book": "hc",
@@ -797,15 +797,165 @@
     },
     {
         "book": "hc",
+        "chapter": "5",
+        "ja": "オミックス<ruby>医療<rt>いりょう</rt></ruby>",
+        "en": "omics-based medicine"
+    },
+    {
+        "book": "hc",
         "chapter": "6",
         "ja": "<ruby>検査<rt>けんさ</rt></ruby>",
         "en": "medical tests"
     },
     {
         "book": "hc",
+        "chapter": "6",
+        "ja": "<ruby>臨床<rt>りんしょう</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>",
+        "en": "clinical tests"
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "<ruby>検体<rt>けんたい</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>",
+        "en": "laboratory tests"
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "<ruby>生理<rt>せいり</rt></ruby><ruby>機能<rt>きのう</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>",
+        "en": "physiological function tests"
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "<ruby>病理<rt></rt></ruby><ruby>検査<rt>けんさ</rt></ruby>",
+        "en": "pathological exams"
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "<ruby>画像<rt>がぞう</rt></ruby><ruby>診断<rt>しんだん</rt></ruby>",
+        "en": "radiography"
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "<ruby>単純<rt>たんじゅん</rt></ruby><ruby>撮影<rt>さつえい</rt></ruby>",
+        "en": "plain radiography"
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "マンモグラフィ",
+        "en": "mammography"
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "<ruby>造影<rt>ぞうえい</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>",
+        "en": "contrast radiography"
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "<ruby>画像<rt>がぞう</rt></ruby><ruby>下<rt>か</rt></ruby><ruby>治療<rt>ちりょう</rt></ruby>",
+        "en": "Interventional Radiology (IVR)"
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "コンピュータ<ruby>断層<rt>だんそう</rt></ruby><ruby>撮影<rt>さつえい</rt></ruby>",
+        "en": "Computed Tomography (CT)"
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "<ruby>核<rt>かく</rt></ruby><ruby>磁気<rt>じき</rt></ruby><ruby>共鳴<rt>きょうめい</rt></ruby><ruby>画像<rt>がぞう</rt></ruby>",
+        "en": "Magnetic Resonance Imaging (MRI)"
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "<ruby>核<rt>かく</rt></ruby><ruby>医学<rt>いがく</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>",
+        "en": "nuclear medicine tests"
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "<ruby>陽<rt>よう</rt></ruby><ruby>電子<rt>でんし</rt></ruby><ruby>放出<rt>ほうしゅつ</rt></ruby><ruby>断層<rt>だんそう</rt></ruby><ruby>画像<rt>がぞう</rt></ruby>",
+        "en": "Positron Emission Tomography (PET)"
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "<ruby>超<rt>ちょう</rt></ruby>音波<ruby><rt></rt></ruby><ruby>検査<rt>けんさ</rt></ruby>",
+        "en": "ultrasonography"
+    },
+    {
+        "book": "hc",
+        "chapter": "6",
+        "ja": "<ruby>内視<rt>ないし</rt></ruby><ruby>鏡<rt>きょう</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>",
+        "en": "endoscopy"
+    },
+    {
+        "book": "hc",
         "chapter": "7",
         "ja": "<ruby>処置<rt>しょち</rt></ruby>",
         "en": "treatments"
+    },
+    {
+        "book": "hc",
+        "chapter": "7",
+        "ja": "<ruby>手術<rt>しゅじゅつ</rt></ruby>",
+        "en": "operations"
+    },
+    {
+        "book": "hc",
+        "chapter": "7",
+        "ja": "ロボット<ruby>手術<rt>しゅじゅつ</rt></ruby>",
+        "en": "robotic surgery"
+    },
+    {
+        "book": "hc",
+        "chapter": "7",
+        "ja": "<ruby>薬物<rt>やくぶつ</rt></ruby><ruby>治療<rt>ちりょう</rt></ruby>",
+        "en": "pharmacotherapy, chemotherapy, drug therapy"
+    },
+    {
+        "book": "hc",
+        "chapter": "7",
+        "ja": "リハビリテーション",
+        "en": "rehabilitation"
+    },
+    {
+        "book": "hc",
+        "chapter": "7",
+        "ja": "<ruby>精神<rt>せいしん</rt></ruby><ruby>療法<rt>りょうほう</rt></ruby>",
+        "en": "psychotherapies"
+    },
+    {
+        "book": "hc",
+        "chapter": "7",
+        "ja": "<ruby>放射<rt>ほうしゃ</rt></ruby><ruby>線<rt>せん</rt></ruby><ruby>治療<rt>ちりょう</rt></ruby>",
+        "en": "radiotherapies"
+    },
+    {
+        "book": "hc",
+        "chapter": "8",
+        "ja": "<ruby>診療<rt>しんりょう</rt></ruby><ruby>記録<rt>きろく</rt></ruby>",
+        "en": ""
+    },
+    {
+        "book": "hc",
+        "chapter": "8",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>記録<rt>きろく</rt></ruby>",
+        "en": ""
+    },
+    {
+        "book": "hc",
+        "chapter": "8",
+        "ja": "<ruby><rt></rt></ruby>",
+        "en": ""
     },
     {
         "ja": "<ruby><rt></rt></ruby>",
