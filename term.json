@@ -786,6 +786,18 @@
     {
         "book": "hc",
         "chapter": "5",
+        "ja": "<ruby>仮想<rt>かそう</rt></ruby><ruby>現実<rt>げんじつ</rt></ruby>",
+        "en": "virtual reality (VR)"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
+        "ja": "<ruby>拡張<rt>かくちょう</rt></ruby><ruby>現実<rt>げんじつ</rt></ruby>",
+        "en": "augmented reality (AR)"
+    },
+    {
+        "book": "hc",
+        "chapter": "5",
         "ja": "<ruby>遺伝子<rt>いでんし</rt></ruby><ruby>診断<rt>しんだん</rt></ruby>",
         "en": "genetic diagnoses"
     },
@@ -835,7 +847,7 @@
         "book": "hc",
         "chapter": "6",
         "ja": "<ruby>病理<rt></rt></ruby><ruby>検査<rt>けんさ</rt></ruby>",
-        "en": "pathological exams"
+        "en": "pathological examinations"
     },
     {
         "book": "hc",
@@ -973,7 +985,7 @@
         "book": "hc",
         "chapter": "8",
         "ja": "<ruby>初期<rt>しょき</rt></ruby><ruby>記録<rt>きろく</rt></ruby>",
-        "en": "admission notes"
+        "en": "initial encounter records"
     },
     {
         "book": "hc",
@@ -984,14 +996,50 @@
     {
         "book": "hc",
         "chapter": "8",
+        "ja": "<ruby>説明<rt>せつめい</rt></ruby>",
+        "en": "explanations"
+    },
+    {
+        "book": "hc",
+        "chapter": "8",
         "ja": "<ruby>同意<rt>どうい</rt></ruby><ruby>書<rt>しょ</rt></ruby>",
-        "en": "consent forms"
+        "en": "informed consent forms"
     },
     {
         "book": "hc",
         "chapter": "8",
         "ja": "<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby>",
         "en": "decision making"
+    },
+    {
+        "book": "hc",
+        "chapter": "8",
+        "ja": "<ruby>指示<rt>しじ</rt></ruby><ruby>記録<rt>きろく</rt></ruby>",
+        "en": "medical order records"
+    },
+    {
+        "book": "hc",
+        "chapter": "8",
+        "ja": "<ruby>依頼<rt>いらい</rt></ruby><ruby>記録<rt>きろく</rt></ruby>",
+        "en": "medical request records"
+    },
+    {
+        "book": "hc",
+        "chapter": "8",
+        "ja": "<ruby>手術<rt>しゅじゅつ</rt></ruby><ruby>記録<rt>きろく</rt></ruby>",
+        "en": "operative records"
+    },
+    {
+        "book": "hc",
+        "chapter": "8",
+        "ja": "<ruby>麻酔<rt>ますい</rt></ruby><ruby>記録<rt>きろく</rt></ruby>",
+        "en": "anesthetic records"
+    },
+    {
+        "book": "hc",
+        "chapter": "8",
+        "ja": "<ruby>検査<rt>けんさ</rt></ruby>ruby>記録<rt>きろく</rt></ruby>",
+        "en": "examination results"
     },
     {
         "book": "hc",
