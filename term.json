@@ -99,7 +99,7 @@
         "book": "hc",
         "chapter": "2",
         "ja": "<ruby>診断<rt>しんだん</rt></ruby><ruby>群<rt>ぐん</rt></ruby><ruby>分類<rt>ぶんるい</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>",
-        "en": "diagnosis procedure combination (DPC)"
+        "en": "the diagnosis procedure combination (DPC)"
     },
     {
         "book": "hc",
@@ -111,7 +111,7 @@
         "book": "hc",
         "chapter": "2",
         "ja": "<ruby>診断<rt>しんだん</rt></ruby><ruby>群<rt>ぐん</rt></ruby><ruby>分類<rt>ぶんるい</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>支払<rt>しはら</rt></ruby>い<ruby>制度<rt>せいど</rt></ruby>",
-        "en": "per-diem payment system (PDPS)"
+        "en": "the per-diem payment system (PDPS)"
     },
     {
         "book": "hc",
@@ -141,7 +141,7 @@
         "book": "hc",
         "chapter": "2",
         "ja": "<ruby>保険<rt>ほけん</rt></ruby><ruby>医療<rt>いりょう</rt></ruby><ruby>機関<rt>きかん</rt></ruby>および<ruby>保険<rt>ほけん</rt></ruby><ruby>医療養<rt>いりょうよう</rt></ruby><ruby>担当<rt>たんとう</rt></ruby><ruby>規則<rt>きそく</rt></ruby>",
-        "en": "Rules for Health Insurance-covered Medical Facilities and Medical Practitioners"
+        "en": "the Rules for Health Insurance-covered Medical Facilities and Medical Practitioners"
     },
     {
         "book": "hc",
@@ -153,31 +153,31 @@
         "book": "hc",
         "chapter": "2",
         "ja": "<ruby>高齢者<rt>こうれいしゃ</rt></ruby>の<ruby>医療<rt>いりょう</rt></ruby>の<ruby>確保<rt>かくほ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>法律<rt>ほうりつ</rt></ruby>",
-        "en": "Act on Securing Health and Medical Service for the Elderly"
+        "en": "the Act on Securing Health and Medical Service for the Elderly"
     },
     {
         "book": "hc",
         "chapter": "2",
         "ja": "<ruby>老人<rt>ろうじん</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>法<rt>ほう</rt></ruby>",
-        "en": "Act on Health for the Elderly"
+        "en": "the Act on Health for the Elderly"
     },
     {
         "book": "hc",
         "chapter": "2",
         "ja": "<ruby>福祉<rt>ふくし</rt></ruby><ruby>制度<rt>せいど</rt></ruby>",
-        "en": "welfare systems"
+        "en": "the welfare system"
     },
     {
         "book": "hc",
         "chapter": "2",
         "ja": "<ruby>介護<rt>かいご</rt></ruby><ruby>制度<rt>せいど</rt></ruby>",
-        "en": "nursing systems for the elderly"
+        "en": "the nursing system for the elderly"
     },
     {
         "book": "hc",
         "chapter": "2",
         "ja": "<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>法<rt>ほう</rt></ruby>",
-        "en": "Long-Term Care Insurance Act"
+        "en": "the Long-Term Care Insurance Act"
     },
     {
         "book": "hc",
@@ -243,7 +243,7 @@
         "book": "hc",
         "chapter": "3",
         "ja": "<ruby>病院<rt>びょういん</rt></ruby>の<ruby>管理<rt>かんり</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>",
-        "en": "governance structure of hospitals"
+        "en": "the governance structure of a hospital"
     },
     {
         "book": "hc",
@@ -279,7 +279,7 @@
         "book": "hc",
         "chapter": "3",
         "ja": "<ruby>診療<rt>しんりょう</rt></ruby><ruby>報酬<rt>ほうしゅう</rt></ruby><ruby>処理<rt>しょり</rt></ruby>",
-        "en": "Fee-for-medical-services processing"
+        "en": "fee-for-medical-services processing"
     },
     {
         "book": "hc",
@@ -355,13 +355,13 @@
         "book": "hc",
         "chapter": "3",
         "ja": "<ruby>医薬品<rt>いやくひん</rt></ruby><ruby>医療<rt>いりょう</rt></ruby><ruby>機器<rt>きき</rt></ruby><ruby>等<rt>とう</rt></ruby><ruby>法<rt>ほう</rt></ruby>",
-        "en": "Pharmaceutical and Medical Device Act (PMD Act)"
+        "en": "the Pharmaceutical and Medical Device Act (PMD Act)"
     },
     {
         "book": "hc",
         "chapter": "3",
         "ja": "<ruby>薬<rt>やく</rt></ruby><ruby>事<rt>じ</rt></ruby><ruby>法<rt>ほう</rt></ruby>",
-        "en": "Pharmaceutical Affairs Law (PAL)"
+        "en": "the Pharmaceutical Affairs Law (PAL)"
     },
     {
         "book": "hc",
@@ -469,7 +469,7 @@
         "book": "hc",
         "chapter": "4",
         "ja": "<ruby>診療<rt>しんりょう</rt></ruby>ガイドライン",
-        "en": "Clinical Practice Guidelines (CPG)"
+        "en": "the Clinical Practice Guidelines (CPG)"
     },
     {
         "book": "hc",
@@ -985,13 +985,13 @@
         "book": "hc",
         "chapter": "8",
         "ja": "<ruby>初期<rt>しょき</rt></ruby><ruby>記録<rt>きろく</rt></ruby>",
-        "en": "initial encounter records"
+        "en": "initial encounter note records"
     },
     {
         "book": "hc",
         "chapter": "8",
         "ja": "<ruby>経過<rt>けいか</rt></ruby><ruby>記録<rt>きろく</rt></ruby>",
-        "en": "progress notes"
+        "en": "progress note records"
     },
     {
         "book": "hc",
@@ -1015,13 +1015,13 @@
         "book": "hc",
         "chapter": "8",
         "ja": "<ruby>指示<rt>しじ</rt></ruby><ruby>記録<rt>きろく</rt></ruby>",
-        "en": "medical order records"
+        "en": "physician order records"
     },
     {
         "book": "hc",
         "chapter": "8",
         "ja": "<ruby>依頼<rt>いらい</rt></ruby><ruby>記録<rt>きろく</rt></ruby>",
-        "en": "medical request records"
+        "en": "physician request records"
     },
     {
         "book": "hc",
@@ -1038,33 +1038,61 @@
     {
         "book": "hc",
         "chapter": "8",
-        "ja": "<ruby>検査<rt>けんさ</rt></ruby>ruby>記録<rt>きろく</rt></ruby>",
-        "en": "examination results"
+        "ja": "<ruby>検査<rt>けんさ</rt></ruby><ruby>記録<rt>きろく</rt></ruby>",
+        "en": "examination result records"
     },
     {
         "book": "hc",
         "chapter": "8",
-        "ja": "<ruby><rt></rt></ruby>",
-        "en": ""
+        "ja": "<ruby>他<rt>た</rt></ruby><ruby>科<rt>か</rt></ruby>・<ruby>他<rt>た</rt></ruby><ruby>施設<rt>しせつ</rt></ruby><ruby>受診<rt>じゅしん</rt></ruby><ruby>依頼<rt>いらい</rt></ruby><ruby>記録<rt>きろく</rt></ruby>",
+        "en": "inter-specialty referral records"
     },
     {
         "book": "hc",
         "chapter": "8",
-        "ja": "<ruby><rt></rt></ruby>",
-        "en": ""
+        "ja": "サマリー",
+        "en": "medical summary reports"
     },
     {
         "book": "hc",
         "chapter": "8",
-        "ja": "<ruby><rt></rt></ruby>",
+        "ja": "<ruby>薬剤<rt>やくざい</rt></ruby><ruby>師<rt>し</rt></ruby>",
+        "en": "pharmacists"
+    },
+    {
+        "book": "hc",
+        "chapter": "8",
+        "ja": "<ruby>栄養<rt>えいよう</rt></ruby><ruby>食事<rt>しょくじ</rt></ruby><ruby>指導<rt>しどう</rt></ruby>",
+        "en": "nutrition and dietetic consulting"
+    },
+    {
+        "book": "hc",
+        "chapter": "8",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>相談<rt>そうだん</rt></ruby>",
+        "en": "medicine and welfare consulting"
+    },
+    {
+        "book": "hc",
+        "chapter": "8",
+        "ja": "クリニカルパス",
+        "en": "clinical pathways"
+    },
+    {
+        "book": "",
+        "chapter": "",
+        "ja": "",
         "en": ""
     },
     {
-        "ja": "<ruby><rt></rt></ruby>",
+        "book": "",
+        "chapter": "",
+        "ja": "",
         "en": ""
     },
     {
-        "ja": "<ruby><rt></rt></ruby>",
+        "book": "",
+        "chapter": "",
+        "ja": "",
         "en": ""
     }
 ]
