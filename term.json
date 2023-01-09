@@ -69,19 +69,19 @@
         "book": "hc",
         "chapter": "2",
         "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>制度<rt>せいど</rt></ruby>",
-        "en": "medical security systems"
+        "en": "medical insurance systems"
     },
     {
         "book": "hc",
         "chapter": "2",
         "ja": "<ruby>健康<rt>けんこう</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>法<rt>ほう</rt></ruby>",
-        "en": "Health Insurance Act"
+        "en": "the Health Insurance Act"
     },
     {
         "book": "hc",
         "chapter": "2",
         "ja": "<ruby>国民<rt>こくみん</rt></ruby><ruby>健康<rt>けんこう</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>法<rt>ほう</rt></ruby>",
-        "en": "National Health Insurance Act"
+        "en": "the National Health Insurance Act"
     },
     {
         "book": "hc",
@@ -171,7 +171,7 @@
         "book": "hc",
         "chapter": "2",
         "ja": "<ruby>介護<rt>かいご</rt></ruby><ruby>制度<rt>せいど</rt></ruby>",
-        "en": "the nursing system for the elderly"
+        "en": "the geriatric nursing system"
     },
     {
         "book": "hc",
