@@ -1078,21 +1078,51 @@
         "en": "clinical pathways"
     },
     {
-        "book": "",
-        "chapter": "",
-        "ja": "",
-        "en": ""
+        "book": "hc",
+        "chapter": "9",
+        "ja": "<ruby>臨床<rt>りんしょう</rt></ruby><ruby>医学<rt>いがく</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>",
+        "en": "clinical medicine researches"
     },
     {
-        "book": "",
-        "chapter": "",
-        "ja": "",
-        "en": ""
+        "book": "hc",
+        "chapter": "9",
+        "ja": "<ruby>医学<rt>いがく</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>",
+        "en": "medical researches"
     },
     {
-        "book": "",
-        "chapter": "",
-        "ja": "",
-        "en": ""
+        "book": "hc",
+        "chapter": "9",
+        "ja": "<ruby>疫学<rt>えきがく</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>",
+        "en": "epidemiological researches"
+    },
+    {
+        "book": "hc",
+        "chapter": "9",
+        "ja": "<ruby>治験<rt>ちけん</rt></ruby>",
+        "en": "clinical trials"
+    },
+    {
+        "book": "hc",
+        "chapter": "9",
+        "ja": "<ruby>医学<rt>いがく</rt></ruby><ruby>統計<rt>とうけい</rt></ruby>",
+        "en": "medical statistics"
+    },
+    {
+        "book": "hc",
+        "chapter": "9",
+        "ja": "<ruby>医療<rt>いりょう</rt></ruby><ruby>統計<rt>とうけい</rt></ruby>",
+        "en": "medical care statistics"
+    },
+    {
+        "book": "hc",
+        "chapter": "9",
+        "ja": "<ruby>臨床<rt>りんしょう</rt></ruby>データベース",
+        "en": "Clinical database"
+    },
+    {
+        "book": "hc",
+        "chapter": "9",
+        "ja": "がん<ruby>登録<rt>とうろく</rt>",
+        "en": "Cancer registration"
     }
 ]
